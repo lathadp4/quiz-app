@@ -1,0 +1,43 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+.App .card {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(228, 208, 208);
+}
+
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+label.radio + .radio {
+  margin-left: 0;
+}
+label.radio input {
+  margin-right: 10px;
+}
+.input {
+  margin: 20px;
+  margin-left: auto;
+}
+.select {
+  margin-bottom: 20px;
+}
+.name {
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "question": "Which of the following command is used to install create-react-app ?",
+      "choices": [
+        "npm install -g create-react-app",
+        "npm install create-react-app",
+        "npm install -f create-react-app",
+        "install -g create-react-app"
+      ],
+      "answer": "npm install -g create-react-app"
+    },
+    {
+      "question": " Which of the following acts as the input of a class-based component ?",
+      "choices": ["Class", "Factory", "Render", "Props"],
+      "answer": "Props"
+    },
+    {
+      "question": "What is the default port where webpack-server runs ?",
+      "choices": ["3000", "8000", "8085", "6000"],
+      "answer": "3000"
+    },
+    {
+      "question": "What are the two ways to handle data in React ?",
+      "choices": [
+        "State & Props",
+        "Services & Components",
+        "State & Services",
+        "State & Component"
+      ],
+      "answer": "State & Props"
+    },
+    {
+      "question": " Which of the following keyword is used to create a class inheritance?",
+      "choices": ["Create", "Inherits", "Extends", "This"],
+      "answer": "Extends"
+    }
+  ]
+}
